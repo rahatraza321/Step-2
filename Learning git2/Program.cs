@@ -8,6 +8,7 @@ namespace Learning_git2
         {
             Console.WriteLine("Hello World!");
             Console.WriteLine("Learning git step 2");
+            Console.WriteLine("Learning next step");
         }
     }
 }
